@@ -38,6 +38,14 @@
 			top: 0.75rem;
 		}
 
+
+		&.heads {
+			display: block;
+			width: 100%;
+			max-width: 400px;
+			margin: auto;
+		}
+
 		&.fit {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
